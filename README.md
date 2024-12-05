@@ -1,6 +1,6 @@
 # PyHTTP-Flask
 
-Create a sinple HTTP server using only Python3.
+Create a simple HTTP server using only Python3.
 
 ## Simple HTTP Serverr
 
